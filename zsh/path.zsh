@@ -1,0 +1,1 @@
+PATH=~/.conda/bin:$PATH
